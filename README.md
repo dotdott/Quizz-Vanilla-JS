@@ -1,2 +1,3 @@
 # Quizz-Vanilla-JS
-Quizz app build with Vanilla JavaScript
+### check live
+- [click here](https://dotdott.github.io/Quizz-Vanilla-JS/)
